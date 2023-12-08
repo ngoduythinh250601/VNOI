@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1528795595 source:d:\c++\vnoi\kinv\main.cpp
+	<cstdio>
+	<algorithm>
+	<iostream>
+	<cmath>
+
